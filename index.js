@@ -21,7 +21,7 @@ Canvas.registerFont( 'data/LSANS.ttf', { family: "LSANS" } );
 
 var exportPath ='exportImage/';
 
-var imgUrl = "https://gameinfo.albiononline.com/api/gameinfo/items/";
+var imgUrl = "https://render.albiononline.com/v1/item/";
 var emptyUrl = "data/emptyImg.png";
 
 var lastRecordedKill = -1;
