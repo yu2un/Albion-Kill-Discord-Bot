@@ -15,3 +15,8 @@ fs
 fs-extra
 image-downloader
 ```
+
+
+### Export Image Example;
+
+![alt text](https://hizliresim.com/OckpQ5][img]https://i.hizliresim.com/OckpQ5.png)
