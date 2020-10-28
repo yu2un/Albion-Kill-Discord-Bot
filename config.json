@@ -1,0 +1,16 @@
+{
+	"cmdPrefix": "!",
+	"players": [
+		"PlayerName"
+	],
+	"allianceName": "",
+	"guildName": "Guild Name",
+	"guildName2": "Guild Name 2",
+	"username": "Kill Bot",
+	"admins": [
+		"ADMIN USER ID"
+	],
+	"botChannel": "Discord Text Channel ID",
+	"playingGame": "Game",
+	"token": "token"
+}
